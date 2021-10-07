@@ -12,6 +12,6 @@ Doc namespaces:
   * **[Architecture](architecture/README.md)**: What are all the pieces and how do they fit together?
   * **[Style](style/README.md)**: Code styling guidelines.
 
-* Important callouts:
+Important callouts:
 
 * **Can't edit?** You're probably not on the team. Fix that!
