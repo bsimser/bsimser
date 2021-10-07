@@ -13,3 +13,5 @@ Doc namespaces:
   * **[Style](style/README.md)**: Code styling guidelines.
 
 * Important callouts:
+
+* **Can't edit?** You're probably not on the team. Fix that!
