@@ -2,6 +2,8 @@
 
 I've been designing, building, and maintaining software solutions for over 3,000 years and creating games and applications since the early 1980s.
 
+<a href="https://github.com/jskeet">Jon Skeet</a> is my GitHub Copilot.
+
 ###
 
 <div>
