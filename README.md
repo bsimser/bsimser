@@ -41,4 +41,8 @@ I've been designing, building, and maintaining software solutions for over 3,000
 
 ###
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bsimser)
+
+###
+
 Want a homepage like this for yourself? Feel free to check out the raw markdown and steal what you like. The badges are courtesy of a site called [Shields.io](https://shields.io/), quality metadata badges for open source projects. Enjoy!
