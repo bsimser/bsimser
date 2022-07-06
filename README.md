@@ -7,9 +7,8 @@ I've been designing, building, and maintaining software solutions for over 3,000
 ###
 
 <div>
-   <a href = "mailto: bsimser@shaw.ca"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://twitter.com/bsimser"><img src="https://img.shields.io/twitter/follow/bsimser?style=for-the-badge" target="_blank"></a>
-   <a href="https://www.twitch.tv/occularmalice"><img src="https://img.shields.io/twitch/status/occularmalice?style=for-the-badge" target="_blank"></a>
+   <a href="https://twitter.com/bsimser"><img src="https://img.shields.io/twitter/follow/bsimser?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+   <a href="https://www.twitch.tv/occularmalice"><img src="https://img.shields.io/twitch/status/occularmalice?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/bsimser" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.youtube.com/bsimser" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/bsimser" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -38,7 +37,6 @@ I've been designing, building, and maintaining software solutions for over 3,000
    <img src="https://img.shields.io/badge/visual%20studio-%238661c5.svg?&style=for-the-badge&logo=visualstudio">
    <img src="https://img.shields.io/badge/raspberry%20pi-red.svg?&style=for-the-badge&logo=raspberrypi">   
    <img src="https://img.shields.io/badge/azure-blue.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white">
-   <img src="https://img.shields.io/badge/power%20bi-yellow.svg?&style=for-the-badge&logo=powerbi">   
    <img src="https://img.shields.io/badge/jetbrains%20rider-blue.svg?&style=for-the-badge&logo=jetbrains">
 </div>
 
