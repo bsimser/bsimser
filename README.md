@@ -1,4 +1,4 @@
-## Hi there! I'm Bil Simser <img align="center" alt="Link" height="65" width="65" src="https://data.whicdn.com/images/201689612/original.gif">
+## Hi there! I'm Bil Simser <img align="center" alt="Link" height="65" width="65" src="https://github.com/bsimser/bsimser/blob/main/github.gif">
 
 I've been designing, building, and maintaining software solutions for over 3,000 years and creating games and applications since the early 1980s.
 
