@@ -80,7 +80,7 @@ It is a good idea to backup all releases. In this section we use the ZipFileOper
 
 ## Automatically Publishing Releases to Itch.io
 
-Now the most exciting part, using Butler to publish your release to Itch.io. This section assumes you already have itch.io setup for your game and that Butler is installed.
+Now the most exciting part, using [Butler](https://itch.io/docs/butler/) to publish your release to Itch.io. This section assumes you already have itch.io setup for your game and that Butler is installed.
 
 1. Click `Post-Build Actions` to expand that section
 2. Select `UploadItch` in the dropdown
