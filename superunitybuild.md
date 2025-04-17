@@ -90,13 +90,15 @@ Now the most exciting part, using [Butler](https://itch.io/docs/butler/) to publ
 6. Set the name of your game on itch (this is the name as it appears in the URL of the game)
 7. Tick to use the generated build version number
 8. Click `Add Filter`
-9. Setup a filter for `Release Type` `Equals` "Release"
+9. Setup a filter for `Release Type` `Equals` "Release" (or whatever you named it above)
 10. Click the big green `Perform All Enabled Builds` button
 
 And now you are publishing to Itch.io. The first time your entire game will be uploaded but in subsequent builds only changed or new content will be uploaded.
 
 ## Notes
 
-When building IL2CPP projects you should add a FolderOperation action before the UploadItch action. Set it to Delete and for the Input path put in 
-"$BASEPATH/$VERSION/$RELEASE_TYPE/$PLATFORM/$ARCHITECTURE/$SCRIPTING_BACKEND/GAMENAME_BackUpThisFolder_ButDontShipItWithYourGame" (replace GAMENAME with your game's name, there doesn't seem to be a token for this). 
+When building IL2CPP projects you should add a FolderOperation action before the UploadItch action. Set it to Delete and for the Input path put in:
+
+`$BASEPATH/$VERSION/$RELEASE_TYPE/$PLATFORM/$ARCHITECTURE/$SCRIPTING_BACKEND/$PRODUCT_NAME_BackUpThisFolder_ButDontShipItWithYourGame`
+
 This folder is in IL2CPP builds and should never be shipped with your game. You might prefer to move this folder rather than delete it and it contains "generated C++ for debugging".
