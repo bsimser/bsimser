@@ -68,7 +68,7 @@ If any of your platforms are not built it is most commonly because you have not 
 
 ## Zip and Backup Releases
 
-It is a good idea to backup all releases. In this section we use the ZipFileOperation build action to zip the contents of the build and place them into my networked backup storage.
+It is a good idea to backup all releases. In this section we use the ZipFileOperation build action to zip the contents of the build and place them somewhere like a networked backup storage.
 
 1. Click `Post-Build Actions` to expand that section
 2. Select `ZipFileoperations` in the dropdown
